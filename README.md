@@ -48,3 +48,12 @@ Once complete we should have:
     * Bill pay interface
     * Checking account transactions
     * Credit Card Transactions
+
+## Packages
+
+* plaid wrapper to get transactions
+* texteract wrapper to do payer and field identification.
+* reconciliation 
+  * match transactions to bills
+* model wrappers?
+* Local cache of cloud stores data.
